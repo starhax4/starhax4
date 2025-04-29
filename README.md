@@ -37,7 +37,7 @@ I am a Front-End Software Engineer specializing in **React.js**, **Next.js**, an
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Islam-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hamzaislam01)  
-[![Email](https://img.shields.io/badge/Email-hamzaislam01%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:starhax4@gmail.com.com)  
+[![Email](https://img.shields.io/badge/Email-starhax4%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:starhax4@gmail.com.com)  
 
 ---
 
