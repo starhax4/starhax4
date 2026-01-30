@@ -7,11 +7,8 @@
 ---
 
 ## 🚀 About Me
-I am a Front-End Software Engineer specializing in **React.js**, **Next.js**, and **Generative AI**. I intern at **Aptagon Technologies** and aim to build high-impact applications and libraries using modern JavaScript.  
+I am a Associate Full Stack Software Engineer specialed in **JS Eco-system**, and **Generative AI**. .  
 
-| 🇵🇰 Location      | 💼 Current Role                                  | 🎓 Education                          |
-|------------------|--------------------------------------------------|---------------------------------------|
-| Okara Cantt, PK  | Web Development Intern, Aptagon Technologies     | B.Sc. Computer Science, UoPeople      |
 
 ---
 
@@ -26,11 +23,6 @@ I am a Front-End Software Engineer specializing in **React.js**, **Next.js**, an
 
 ---
 
-## 📂 Projects
-| Name                     | Description                                                      | Link                                                                       |
-|--------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------|
-| **PFlex**                | React drag-and-drop portfolio page builder with Firebase backend | [github.com/hamzaislam01/PFlex](https://github.com/starhax4/PFlex)               |
-| **Portfolio Builder**    | Full-stack portfolio app (React, TypeScript, GrapesJS, Firebase) | [github.com/hamzaislam01/portfolio-builder](https://github.com/starhax4/PFlex) |
 
 
 ---
